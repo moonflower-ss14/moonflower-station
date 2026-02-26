@@ -1749,8 +1749,6 @@
           - NukeOpsUplink
 
 - type: listing
-<<<<<<< HEAD
-=======
   id: UplinkClothingConductingGloves
   name: uplink-clothing-conducting-gloves-name
   description: uplink-clothing-conducting-gloves-desc
@@ -1761,7 +1759,6 @@
   - UplinkWearables
 
 - type: listing
->>>>>>> parent of b0ddb0e64d (Syndicate Wearables Category Rebalances (#42482))
   id: UplinkBackpackSyndicate
   name: uplink-backpack-syndicate-name
   description: uplink-backpack-syndicate-desc
